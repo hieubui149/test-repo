@@ -1,5 +1,6 @@
 # test-repo
-```sequenceDiagram
+```mermaid
+ sequenceDiagram
   participant Customer
   participant EH
   participant Middleware
